@@ -1,0 +1,12 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo nothing to do yet
+artifacts:
+  - index.html
+  - favicon.ico
+  - Homan_Kevin_2018Jan16.pdf
+  - styles/main.css
+  - images/*

@@ -4,6 +4,10 @@ This is my (work in progress) professional portfolio written in ReactJS and host
 on AWS using serverless components.
 
 ## Technology Used
+- AWS CloudFront
+- AWS CodeBuild
+- AWS Route 53
+- AWS S3
 - Brew (Mac package manager)
 - CSS
 - Font Awesome

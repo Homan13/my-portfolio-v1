@@ -12,8 +12,11 @@ an educational exercise for me, so feedback is welcomed!
 ## Technology Used
 - AWS CloudFront
 - AWS CodeBuild
+- AWS CodePipeline
+- AWS Lambda
 - AWS Route 53
 - AWS S3
+- AWS Simple Notification Service (SNS)
 - Brew (Mac package manager)
 - CSS
 - Font Awesome

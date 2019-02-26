@@ -3,8 +3,7 @@ version: 0.2
 phases:
   build:
     commands:
-      - npm install
-      - npm run webpack
+      - echo nothing to do yet
 artifacts:
   files:
     - index.html
@@ -12,4 +11,3 @@ artifacts:
     - Homan_Kevin_2018Jan16.pdf
     - styles/main.css
     - images/*
-    - dist/bundle.js

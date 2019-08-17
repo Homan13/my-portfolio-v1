@@ -1,10 +1,11 @@
 {
   "name": "my-portfolio",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "My Portfolio",
   "main": "index.js",
   "scripts": {
     "test": "jest --env=node",
+    "test-watch": "jest --env=node --watch",
     "webpack": "webpack",
     "webpack-watch": "webpack --watch"
   },
